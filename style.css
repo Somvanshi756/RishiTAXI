@@ -458,6 +458,7 @@ justify-content: space-between;
                 .copyright{
                     flex-direction: column;
                 }
+
             }
             .newsletter .box {
                 width: 284px;

@@ -392,6 +392,7 @@ justify-content: space-between;
             header{
                 padding: 11px 40px;
             }
+        }
             #menu-icon{
                 display: initial;
 
@@ -424,7 +425,7 @@ justify-content: space-between;
            .navbar.active {
             top: 100%;
            }
-           .navbar a{
+           .navbar a {
             padding: 1rem;
             border-left: 2px solid var(--main-colour);
             margin: 1rem;
@@ -457,6 +458,7 @@ justify-content: space-between;
                 .copyright{
                     flex-direction: column;
                 }
+            }
             .newsletter .box {
                 width: 284px;
 
@@ -487,7 +489,6 @@ justify-content: space-between;
                     grid-template-columns: repeat(auto-fit,minmax(254px, auto));
                 }
 
-        }
             }
         }
         

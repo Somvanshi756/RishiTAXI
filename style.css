@@ -426,7 +426,7 @@ justify-content: space-between;
            }
            .navbar a{
             padding: 1rem;
-            border-left: 2ox solid var(--main-colour);
+            border-left: 2px solid var(--main-colour);
             margin: 1rem;
             display: block;
            }
